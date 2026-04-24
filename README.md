@@ -10,7 +10,7 @@ Secure clinical data curation, storage and API gateway infrastructure for the DI
 
 ## Overview
 
-The DIOPTRA Curation & Storage component provides the secure 
+The DIOPTRA Curation & Storage component (DIOPTRA Software Backend) provides the secure 
 infrastructure for ingesting, storing, and accessing clinical 
 research data collected across all DIOPTRA partner clinical sites.
 
