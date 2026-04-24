@@ -40,3 +40,13 @@ Full API documentation available at:
 - Docker Compose >= 2.x
 - Elasticsearch 7.x
 - Keycloak instance
+
+## Authors & Copyright
+
+Developed by **Netcompany** for the DIOPTRA Project.
+
+Copyright © 2023-2026 Netcompany
+
+## License
+
+This project is licensed under the Apache License 2.0.
