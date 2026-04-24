@@ -1,6 +1,5 @@
 # data-curation-storage
 Secure clinical data curation, storage and API gateway infrastructure for the DIOPTRA EU Horizon Europe research platform.
-DIOPTRA Software pvovide:
 - Secure clinical data ingestion via Logstash pipelines
 - Elasticsearch-based clinical data storage
 - REST API Gateway for controlled data access
